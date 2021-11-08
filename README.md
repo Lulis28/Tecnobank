@@ -1,4 +1,4 @@
 # Crud Api
-### Utilizando .net Core C#
+### Utilizando .net C#
 
 Desenvolvido por Lucimara Alves Silva
