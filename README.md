@@ -1,4 +1,4 @@
-# Teste Tecnobank
-### Teste para vaga de software Developer
+# Crud Api
+### Utilizando .net Core C#
 
 Desenvolvido por Lucimara Alves Silva
